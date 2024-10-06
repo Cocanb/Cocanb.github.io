@@ -14,7 +14,7 @@ The quick brown fox jumps over the lazy dog.
 Th quic brow fo jump ove th laz do.
 ```
 
-**Step 2:** To the end of the sentence, add the string `non`. (referred to as the "separator-`non`") Then, for each word of the initial sentence, add the previously removed letter as well as a character (or characters) corresponding to the length of the initial word. (e. g. if the word was one character long, `a` is to be added, and if the word was two characters long, `b` and etc...) In the case of a word that was longer than 26 characters, add the character `å` as many times as needed before the length character: (e. g. if the word was 27 characters long, `åa` is to be added, if the word was 28 characters long, `åb` is to be added, and if the word was 53 characters long, `ååa` is to be added.)
+**Step 2:** To the end of the sentence, add the string `non`. (referred to as the "separator-`non`") Then, for each word of the initial sentence, add the previously removed letter as well as a character (or characters) corresponding to the length of the initial word. (e. g. if the word was one character long, `a` is to be added, and if the word was two characters long, `b` and etc...) In the case of a word that was longer than 26 characters, add the character `å` as many times as needed before the length character. (e. g. if the word was 27 characters long, `åa` is to be added, if the word was 28 characters long, `åb` is to be added, and if the word was 53 characters long, `ååa` is to be added.) This portion of the will be referred to as the "suffix":
 
 ```
 Th quic brow fo jump ove th laz do non ec ke ne xc se rd ec yd ge.
@@ -26,13 +26,17 @@ Th quic brow fo jump ove th laz do non ec ke ne xc se rd ec yd ge.
 Thquicbrowfojumpovethlazdononeckenexcserdecydge.
 ```
 
-**Step 4:** Add spaces, punctuation (cf. [below](#rules-regarding-punctuation)), and diacritics as you see fit. You may also alter the capitalisation of individual letters, but the first letter of the sentence shall remain capitalised: (Referred to as "Decoration" in this document)
+**Step 4:** Add spaces, punctuation (cf. [below](#rules-regarding-punctuation)), and diacritics as you see fit. You may also alter the capitalisation of individual letters, but the first letter of the sentence shall remain capitalised: (This step will be referred to as "decoration")
 
 ```
 Thquîc browföjum povethlàz dóno necken exčserd ecydğe.
 ```
 
+If there are two letters which can form a ligature, they may also be replaced with the ligature.
+
 ## Additional Rules
+
+For the rules specific to versions 2 and 3 of Cocánb, please refer to the [Versions of Cocánb](./versions-of-cocanb.md#version-2) section.
 
 ### Rules regarding the separator
 
