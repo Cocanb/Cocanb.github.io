@@ -10,6 +10,7 @@ The following variables are needed in order to perform säl à đmäl à đnonef
 
 ## Algorithm
 
+- Push the string `non` onto the suffixes stack.
 - Iterate over the input text. For each character of the text:
   - If the character is a whitespace (e. g. space, newline, tab, or carriage return) and the current word exists, [process and append the word to the output string](#processing-the-word).
   - If the character is a stop: (e.g. `.`, `?`, or `!`)
