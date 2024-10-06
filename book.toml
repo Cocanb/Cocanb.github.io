@@ -1,0 +1,6 @@
+[book]
+authors = ["Cocánb Altort", "salademalade"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cocánb Documentation"
