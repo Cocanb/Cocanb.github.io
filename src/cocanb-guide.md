@@ -26,7 +26,7 @@ Th quic brow fo jump ove th laz do non ec ke ne xc se rd ec yd ge.
 Thquicbrowfojumpovethlazdononeckenexcserdecydge.
 ```
 
-**Step 4:** Add spaces, punctuation (cf. [below](#rules-regarding-punctuation)), and diacritics as you see fit. You may also alter the capitalisation of individual letters, but the first letter of the sentence shall remain capitalised:
+**Step 4:** Add spaces, punctuation (cf. [below](#rules-regarding-punctuation)), and diacritics as you see fit. You may also alter the capitalisation of individual letters, but the first letter of the sentence shall remain capitalised: (Referred to as "Decoration" in this document)
 
 ```
 Thquîc browföjum povethlàz dóno necken exčserd ecydğe.
